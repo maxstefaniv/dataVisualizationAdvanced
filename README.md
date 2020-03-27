@@ -32,7 +32,7 @@ npm install
 npm start
 ```
 
-# Start
+# Code Annotations
 
 - My code is fully commented through the execution, almost line by line. For more detail you should look in specific libraryes.
 
